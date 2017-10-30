@@ -1,6 +1,6 @@
 declared-services:
   todo-db:
-  label:cloudantNoSQLDB
+  label: cloudantNoSQLDB
   plan: Lite
 applications:
 - name:      bluemix-todo-node301017
