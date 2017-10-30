@@ -8,4 +8,4 @@ applications:
   host:      bluemix-todo-node301017-${random-word}
   memory:    128M
   services:
-  - cloudantNoSQLDB
+  - todo-db
