@@ -1,5 +1,5 @@
 declared-services:
-  cloudantNoSQLDB:
+  todo-db:
   label: cloudantNoSQLDB
   plan: Lite
 applications:
